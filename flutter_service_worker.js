@@ -10,6 +10,7 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/assets/lottie_animation_4.json": "ba6736abb88fa0652f67de11aed3e9b3",
+"assets/assets/example.riv": "a2dfdd9255274eaff2f75402e515b77b",
 "assets/assets/happy_mothers_Day.gif": "c3ab91d40b8e34e7a1f55ac93f55fc6d",
 "assets/assets/lottie_animation_1.json": "54fb1c05638ca79836c297854e388c8a",
 "assets/assets/dorpon_welcome.gif": "5ae790247cf95ee7a217ca7c5a94a7cc",
@@ -17,15 +18,15 @@ const RESOURCES = {
 "assets/assets/lottie_animation_3.json": "30da714fc4140c2382025c8558086ccc",
 "assets/assets/lottie_animation_5.json": "ba6736abb88fa0652f67de11aed3e9b3",
 "assets/assets/lottie_animation_2.json": "07244784ffe1d15a66b2792fa9119a1a",
-"assets/AssetManifest.json": "d07cfc424d114f638cd94a3bea8e8401",
-"assets/NOTICES": "b1874ac64411a921f49694342e57fa42",
+"assets/AssetManifest.json": "c038c3e958dde027cd3a260bea4593e4",
+"assets/NOTICES": "65b5f158c42726431189e9b01e396d51",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "version.json": "20a4fe24f5e76b2f22aa19a7625eefb2",
 "manifest.json": "2236e76d3f71da8766a4f4e671c2f901",
-"main.dart.js": "9c2215d6b10cbbd58ffac4beb01d1d37",
+"main.dart.js": "e428c6ba58b385cf0d1c63191893a501",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"index.html": "9a39ad9cf360fe0ef245e71bbddf705a",
-"/": "9a39ad9cf360fe0ef245e71bbddf705a"
+"index.html": "40ee3f0c5fc70ee5f16aeba898aa2ce7",
+"/": "40ee3f0c5fc70ee5f16aeba898aa2ce7"
 };
 
 // The application shell files that are downloaded before a service worker can
