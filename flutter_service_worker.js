@@ -17,6 +17,7 @@ const RESOURCES = {
 "assets/assets/happy_mothers_Day.gif": "c3ab91d40b8e34e7a1f55ac93f55fc6d",
 "assets/assets/lottie_animation_1.json": "54fb1c05638ca79836c297854e388c8a",
 "assets/assets/dorpon_welcome.gif": "5ae790247cf95ee7a217ca7c5a94a7cc",
+"assets/assets/dorpon_logo.riv": "3269c9bdd22734d93c9d0d678a12f49c",
 "assets/assets/example_7.riv": "b8dda9c1e6e8424cd0bc0ad2dc93fe1f",
 "assets/assets/example_4.riv": "d3a53c7a3fda16f2467d35e5afadaa7e",
 "assets/assets/lottie_animation_6.json": "c4300d28b61800ad5fdd578db41c889f",
@@ -24,15 +25,15 @@ const RESOURCES = {
 "assets/assets/example_5.riv": "ac4fc93215f410478aae393e61745155",
 "assets/assets/lottie_animation_5.json": "ba6736abb88fa0652f67de11aed3e9b3",
 "assets/assets/lottie_animation_2.json": "07244784ffe1d15a66b2792fa9119a1a",
-"assets/AssetManifest.json": "1cdc8fa547a5037da10d470410f4fe2b",
+"assets/AssetManifest.json": "d436f2ebdf0e31c0bb20383c6e967e17",
 "assets/NOTICES": "25382a5cc7fa80a01c2f9c0593c6efd3",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "version.json": "20a4fe24f5e76b2f22aa19a7625eefb2",
 "manifest.json": "2236e76d3f71da8766a4f4e671c2f901",
-"main.dart.js": "871b41da13f87c7e6aea4dee23aee86f",
+"main.dart.js": "85490962925b78656d220ea816442ba3",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"index.html": "8a0e36192464a8055bd22ea5c9007f66",
-"/": "8a0e36192464a8055bd22ea5c9007f66"
+"index.html": "492d25ca90f75e1dcf8ccc6c6a5d3f6d",
+"/": "492d25ca90f75e1dcf8ccc6c6a5d3f6d"
 };
 
 // The application shell files that are downloaded before a service worker can
