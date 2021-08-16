@@ -3,8 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
+  "icons/icon-512.png": "38844ed8ae15942ebf855fc2dd3d3eed",
+"icons/16(1).png": "f6ba11ebae4530c69e8e9469b87aad2d",
+"icons/icon-192.png": "49168459cdb30e60903b898091107fcc",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/assets/pizza.jpg": "bade8f74bed2b290943f092578cf2035",
@@ -14,10 +15,10 @@ const RESOURCES = {
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "version.json": "ca436597cf97ce9067ae472b284f5906",
 "manifest.json": "69ed56973ad5bdcfa10ff62953088a9d",
-"main.dart.js": "ebdde0efd2b074749ace0c443f6510eb",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"index.html": "c5ad0d9c2bd68dded27476a55b743194",
-"/": "c5ad0d9c2bd68dded27476a55b743194"
+"main.dart.js": "5ba00fec102813c126f06676367377cb",
+"favicon.png": "f6ba11ebae4530c69e8e9469b87aad2d",
+"index.html": "7be6b1881aa9639a85b9a8ef4def5f61",
+"/": "7be6b1881aa9639a85b9a8ef4def5f61"
 };
 
 // The application shell files that are downloaded before a service worker can
