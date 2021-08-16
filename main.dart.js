@@ -51363,7 +51363,7 @@ return new S.rQ(new F.t3(H.a([T.c3(L.co(r,s),300,300),T.c3(L.co(r,s),300,300),T.
 F.t3.prototype={
 aT:function(){return new F.Hv(C.l)}}
 F.Hv.prototype={
-U:function(a,b){var s=null,r=V.a8_("dorpon_logo_15.riv"),q=L.co("Geia",s)
+U:function(a,b){var s=null,r=V.a8_("assets/dorpon_logo_15.riv"),q=L.co("Geia",s)
 this.a.toString
 return new M.u6(new E.q8(r,new T.k3(new V.bz(140,140,140,140),q,s),new P.a2(1/0,56),s),new B.AA(new G.W8(new F.a_b(this),23,!0,!0,!0),s,C.y,!1,s,!0,C.ke,!1,s,23,C.aX,C.wO,s,C.aF,s),s)}}
 F.a_b.prototype={
