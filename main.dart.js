@@ -46084,7 +46084,7 @@ m.push(o)}while(!k.$2(o,a))
 l.x.push(m)}},
 $S:function(){return this.y.j("~(0)")}}
 F.zd.prototype={
-U:function(a,b){var s,r=null,q="dorpon_logo_15.riv",p="\u0394\u039f\u03a1\u03a0\u039f\u039d",o=X.a4S(C.Y),n=V.a4z(q),m=L.C2("Show Rive asset",r,r),l=T.t8(V.a4z(q),600,600),k=P.c4(0,0,0),j=P.c4(0,500,0),i=new T.h4(p)
+U:function(a,b){var s,r=null,q="assets/dorpon_logo_15.riv",p="\u0394\u039f\u03a1\u03a0\u039f\u039d",o=X.a4S(C.Y),n=V.a4z(q),m=L.C2("Show Rive asset",r,r),l=T.t8(V.a4z(q),600,600),k=P.c4(0,0,0),j=P.c4(0,500,0),i=new T.h4(p)
 k=N.a38(L.pJ(new D.p1(H.a([new U.tR(j,C.bj,p,C.W,r,new P.aV(C.h.aL(j.a*i.gl(i))),new T.h4(p))],t.rr),1,r),r,C.b8,!0,C.xX,r,r,C.ai),k,!0,C.mg)
 i=P.c4(0,1000,0)
 j=P.c4(0,0,2)
