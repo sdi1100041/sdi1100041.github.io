@@ -46619,7 +46619,7 @@ $0:function(){var s=this.a.a
 return s==null?H.i(H.bF("child")):s},
 $S:298}
 F.xy.prototype={
-R:function(a,b){var s,r=null,q="stroke.svg",p="A red up arrow",o="\u0394\u039f\u03a1\u03a0\u039f\u039d",n=X.a48(C.Y),m=G.a45(q,C.iV,p),l=L.Aa("Show Rive asset",r,r),k=T.mC(G.a45(q,C.iV,p),600,600),j=P.bT(0,0,0),i=P.bT(0,500,0),h=new T.fq(o)
+R:function(a,b){var s,r=null,q="assets/stroke.svg",p="A red up arrow",o="\u0394\u039f\u03a1\u03a0\u039f\u039d",n=X.a48(C.Y),m=G.a45(q,C.iV,p),l=L.Aa("Show Rive asset",r,r),k=T.mC(G.a45(q,C.iV,p),600,600),j=P.bT(0,0,0),i=P.bT(0,500,0),h=new T.fq(o)
 j=N.a2u(L.oy(new D.nU(H.b([new U.rr(i,C.bk,o,C.W,r,new P.aP(C.h.aj(i.a*h.gl(h))),new T.fq(o))],t.rr),1,r),r,C.ba,!0,C.Av,r,r,C.aj),j,!0,C.oH)
 h=P.bT(0,1000,0)
 i=P.bT(0,0,2)
