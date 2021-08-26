@@ -14,10 +14,10 @@ const RESOURCES = {
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "version.json": "a37476fc11d5a548351a5a04f011c8c1",
 "manifest.json": "63b24f722e8c8e54713628faa6df395e",
-"main.dart.js": "8f5419b9095441e00f972881dd3ba45c",
+"main.dart.js": "2b4a139eb93edc36f97cf56943406255",
 "favicon.png": "f6ba11ebae4530c69e8e9469b87aad2d",
-"index.html": "e99e86ec168ff2680c2601e3a3d4ab74",
-"/": "e99e86ec168ff2680c2601e3a3d4ab74"
+"index.html": "d9066ace5e447ffa694ee70a19f17807",
+"/": "d9066ace5e447ffa694ee70a19f17807"
 };
 
 // The application shell files that are downloaded before a service worker can
