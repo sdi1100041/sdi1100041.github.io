@@ -10,14 +10,14 @@ const RESOURCES = {
 "assets/assets/404.svg": "3d9a1cb05990256a97512059a96af648",
 "assets/assets/dorpon_logo.riv": "529e4e634a69c9f29f1ae499e7b4dac4",
 "assets/AssetManifest.json": "acd51150f2b1ff8e5831a4787ef5d01a",
-"assets/NOTICES": "a3a1f71281185c6be934e1a5b4b426d0",
+"assets/NOTICES": "2aedc121a3b4d99848d0131555e7c69c",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "version.json": "a37476fc11d5a548351a5a04f011c8c1",
 "manifest.json": "63b24f722e8c8e54713628faa6df395e",
-"main.dart.js": "2b4a139eb93edc36f97cf56943406255",
+"main.dart.js": "4b5a96b2ae0acda8283b2a3a8a5aca28",
 "favicon.png": "f6ba11ebae4530c69e8e9469b87aad2d",
-"index.html": "d9066ace5e447ffa694ee70a19f17807",
-"/": "d9066ace5e447ffa694ee70a19f17807"
+"index.html": "13e06d0b8a3c5b914634995d026de64a",
+"/": "13e06d0b8a3c5b914634995d026de64a"
 };
 
 // The application shell files that are downloaded before a service worker can
