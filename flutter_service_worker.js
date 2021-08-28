@@ -10,11 +10,11 @@ const RESOURCES = {
 "assets/assets/404.svg": "3d9a1cb05990256a97512059a96af648",
 "assets/assets/dorpon_logo.riv": "529e4e634a69c9f29f1ae499e7b4dac4",
 "assets/AssetManifest.json": "acd51150f2b1ff8e5831a4787ef5d01a",
-"assets/NOTICES": "561fde01432c7d60ae51f6a520a0afe5",
+"assets/NOTICES": "603d0612b01646eb81e054ab3aa20527",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "version.json": "a37476fc11d5a548351a5a04f011c8c1",
 "manifest.json": "63b24f722e8c8e54713628faa6df395e",
-"main.dart.js": "071dec5f4549dadf6415af59e21ec9ce",
+"main.dart.js": "f9ef84f3ec5def43cb9dc326cab2141e",
 "favicon.png": "f6ba11ebae4530c69e8e9469b87aad2d",
 "index.html": "13e06d0b8a3c5b914634995d026de64a",
 "/": "13e06d0b8a3c5b914634995d026de64a"
