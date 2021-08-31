@@ -38712,7 +38712,7 @@ O.v9.prototype={
 K:function(a,b){var s,r=null,q=this.c,p=$.aCe.i(0,q)
 if(p==null)p=""
 s=$.aDo.i(0,q)
-return S.i5(M.du(r,M.du(r,G.ao1("allergens/"+(s==null?"":s)+".svg",r,r),r,r,30,r,r,30),r,r,r,r,new V.bM(5,0,5,0),r),p)},
+return S.i5(M.du(r,M.du(r,G.ao1("assets/allergens/"+(s==null?"":s)+".svg",r,r),r,r,30,r,r,30),r,r,r,r,new V.bM(5,0,5,0),r),p)},
 gag:function(a){return this.c}}
 R.vK.prototype={
 K:function(a,b){var s=null,r=this.c,q=$.aCf.i(0,r)
