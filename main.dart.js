@@ -38842,7 +38842,7 @@ H:function(a,b){var s=null,r=t.D
 return S.eK(T.eY(H.a([C.u_,T.d4(H.a([L.bV(C.f.j(this.c),A.dI(s,s,s,s,s,s,s,s,s,s,s,20,s,C.a9,s,s,!0,s,s,s,s,s,s,s),s,s)],r),C.y,C.D,C.Q)],r),C.y,C.D),"\u0398\u03b5\u03c1\u03bc\u03af\u03b4\u03b5\u03c2 \u03b1\u03bd\u03ac \u03bc\u03b5\u03c1\u03af\u03b4\u03b1")}}
 K.FJ.prototype={
 H:function(a,b){var s=null
-return S.eK(M.ck(s,G.ajf("assets/energy_class_1.svg",s,s),s,s,s,60,s,s,40),"\u0395\u03bd\u03b5\u03c1\u03b3\u03b5\u03b9\u03b1\u03ba\u03ae \u03ba\u03bb\u03ac\u03c3\u03c3\u03b7")}}
+return S.eK(M.ck(s,G.ajf("assets/energy_class_1.svg",s,s),s,s,s,59,s,s,40),"\u0395\u03bd\u03b5\u03c1\u03b3\u03b5\u03b9\u03b1\u03ba\u03ae \u03ba\u03bb\u03ac\u03c3\u03c3\u03b7")}}
 K.Lq.prototype={
 H:function(a,b){var s=null,r=t.D
 return T.eY(H.a([S.eK(C.u0,"\u03a7\u03c1\u03cc\u03bd\u03bf\u03c2 (\u039b\u03b5\u03c0\u03c4\u03ac)"),S.eK(T.d4(H.a([L.bV(C.f.j(this.c),A.dI(s,s,s,s,s,s,s,s,s,s,s,20,s,C.a9,s,s,!0,s,s,s,s,s,s,s),s,s)],r),C.y,C.D,C.Q),"\u03a3\u03c5\u03bd\u03bf\u03bb\u03b9\u03ba\u03ac (\u039b\u03b5\u03c0\u03c4\u03ac)"),T.d4(H.a([S.eK(L.bV("("+C.f.j(this.d),A.dI(s,s,s,s,s,s,s,s,s,s,s,18,s,C.a9,s,s,!0,s,s,s,s,s,s,s),s,s),"\u03a0\u03c1\u03bf\u03b5\u03c4\u03bf\u03b9\u03bc\u03b1\u03c3\u03af\u03b1 (\u039b\u03b5\u03c0\u03c4\u03ac)"),L.bV(" + ",s,s,s),S.eK(L.bV(C.f.j(this.e)+")",A.dI(s,s,s,s,s,s,s,s,s,s,s,18,s,C.a9,s,s,!0,s,s,s,s,s,s,s),s,s),"\u0391\u03bd\u03b1\u03bc\u03bf\u03bd\u03ae (\u039b\u03b5\u03c0\u03c4\u03ac)")],r),C.y,C.D,C.Q)],r),C.y,C.D)}}
