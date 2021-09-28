@@ -40,11 +40,11 @@ const RESOURCES = {
 "assets/assets/dorpon_logo_static.png": "2a7b4557e70b111ba295b9223002f447",
 "assets/assets/%25CE%25A4%25CF%2585%25CF%2581%25CE%25AF.png": "0bf7eefd2547ed1be51143479ce87150",
 "assets/AssetManifest.json": "4da59f8b7415fc0faf3e58901bf4923a",
-"assets/NOTICES": "00ff231711fc796b0a8e78c683440902",
+"assets/NOTICES": "c7d206e7bd5087619ac8f233d3c21ee1",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "version.json": "a37476fc11d5a548351a5a04f011c8c1",
 "manifest.json": "63b24f722e8c8e54713628faa6df395e",
-"main.dart.js": "754e92df1e137a8fb1cd0149b99146a1",
+"main.dart.js": "02fde8d409f3017106a8a226ae103a9f",
 "favicon.png": "f6ba11ebae4530c69e8e9469b87aad2d",
 "index.html": "2b6ab17682dc81762aff4d430706f6fd",
 "/": "2b6ab17682dc81762aff4d430706f6fd"
