@@ -51,11 +51,11 @@ const RESOURCES = {
 "assets/assets/texture3.jpg": "d366d24f3ca19bda99273da02dbbeaf3",
 "assets/assets/%25CE%25A4%25CF%2585%25CF%2581%25CE%25AF.png": "0bf7eefd2547ed1be51143479ce87150",
 "assets/AssetManifest.json": "7b441e51b39bf343b842cd9a8fd34af5",
-"assets/NOTICES": "8454e476ca73aa28250dcb9c6bbff260",
+"assets/NOTICES": "cf17100ab3d39f459171b6dcc826bba2",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "version.json": "a37476fc11d5a548351a5a04f011c8c1",
 "manifest.json": "0f4278e94cb91b89324c831a52ea37f6",
-"main.dart.js": "5b90d78c3431c9a18ecb0fe5f79eeb7d",
+"main.dart.js": "bac74c7fa5e3ed88bf6706b2f3314c95",
 "index.html": "8b51064fe3dceb19d6967167472918d3",
 "/": "8b51064fe3dceb19d6967167472918d3"
 };
