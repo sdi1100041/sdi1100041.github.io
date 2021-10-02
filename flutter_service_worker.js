@@ -27,6 +27,7 @@ const RESOURCES = {
 "assets/assets/ML.svg": "a5d94d39fe16a6045250a6a293c69795",
 "assets/assets/GL.svg": "28ae8f2518b952b0448990b9234ea77c",
 "assets/assets/energy_class_4.png": "ced0510f6fa85470ba83cda94b0afac8",
+"assets/assets/texture20.jpeg": "b0bbd996de93abb06b72ff49cb007f58",
 "assets/assets/SU.svg": "509066641323adee25b40388cb9c147f",
 "assets/assets/404.svg": "3d9a1cb05990256a97512059a96af648",
 "assets/assets/dorpon_logo.riv": "529e4e634a69c9f29f1ae499e7b4dac4",
@@ -49,12 +50,12 @@ const RESOURCES = {
 "assets/assets/dorpon_logo_static.png": "2a7b4557e70b111ba295b9223002f447",
 "assets/assets/texture10.jpg": "fdab34c29d984456d9ea3583af9cf1d3",
 "assets/assets/%25CE%25A4%25CF%2585%25CF%2581%25CE%25AF.png": "0bf7eefd2547ed1be51143479ce87150",
-"assets/AssetManifest.json": "925d7f9809a9000a7d34d021ef41901c",
+"assets/AssetManifest.json": "2c55f528ca66112d366790854155d338",
 "assets/NOTICES": "cf17100ab3d39f459171b6dcc826bba2",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "version.json": "a37476fc11d5a548351a5a04f011c8c1",
 "manifest.json": "0f4278e94cb91b89324c831a52ea37f6",
-"main.dart.js": "0fe0d49781a35899c4138be01ee48e01",
+"main.dart.js": "3b58e4f03bc9ab07ae92987cecc6c55a",
 "index.html": "8b51064fe3dceb19d6967167472918d3",
 "/": "8b51064fe3dceb19d6967167472918d3"
 };
