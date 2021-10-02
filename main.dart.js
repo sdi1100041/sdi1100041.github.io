@@ -43343,7 +43343,7 @@ if(a3===2){L.S(a5,C.j,r).toString
 a3=T.Y("Moderate",a0,"difficulty_moderate",H.a([],q),a0)
 s=a3}else{L.S(a5,C.j,r).toString
 a3=T.Y("Hard",a0,"difficulty_hard",H.a([],q),a0)
-s=a3}}a3=X.aJr(C.hh,new L.rP(a1?"texture10.jpg":"texture17.jpg",a0,a0),a0)
+s=a3}}a3=X.aJr(C.hh,new L.rP(a1?"assets/texture10.jpg":"assets/texture17.jpg",a0,a0),a0)
 r=H.a([new O.br(5,P.av(0,76,175,80),new P.k(0,3),7)],t.V)
 q=a2.a
 p=T.fJ(R.ui(!1,a0,!0,L.b2(q,a0,a0,a0,A.eD(a0,a0,C.dM,a0,C.js,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,!0,a0,a0,a0,a0,a0,a0,a0,a0),a0,a0),a0,!0,a0,a0,a0,a0,a0,a0,a0,a0,a0,new Q.adm(a),a0,a0,a0),a0,a0)
