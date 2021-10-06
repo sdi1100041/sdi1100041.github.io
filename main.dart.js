@@ -42871,7 +42871,7 @@ if(q.e===$)q.e=n
 else H.e(H.ev("_allergnesWidgetList"))},
 E(a,b){return new A.k8(new K.ad2(this),null)}}
 K.ad2.prototype={
-$2(a1,a2){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c=null,b=a2.b,a=b*0.45,a0=(a-150)/2
+$2(a1,a2){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c=null,b=a2.b,a=b*0.45,a0=(a-140)/2
 if(a0<0)a0=0
 s=K.a2R(new P.bz(10,10))
 r=this.a
@@ -42882,7 +42882,7 @@ n=T.a3z(new K.cQ(C.W,C.W,new P.bz(10,10),new P.bz(10,10)),M.bB(c,c,C.x,c,c,180,c
 m=T.a3z(new K.cQ(C.W,C.W,new P.bz(10,10),new P.bz(10,10)),M.bB(c,U.azM(q.e,C.cB,c,c),c,c,c,c,c,c,1/0))
 l=T.acl(T.a3z(new K.cQ(C.W,C.W,new P.bz(10,10),new P.bz(10,10)),U.nb("assets/transparent.png",C.jY,c,c)))
 k=t.p
-j=T.aJ(T.cw(H.a([T.cw(H.a([C.a4n,new K.PC(q.c,c)],k),C.u,C.y,C.t),new K.QX(q.d,c),T.cw(H.a([new K.IH(q.f,c),T.aJ(c,c,10)],k),C.u,C.y,C.t)],k),C.u,C.cs,C.t),c,b*0.4)
+j=T.aJ(T.cw(H.a([T.cw(H.a([C.a4n,new K.PC(q.c,c)],k),C.u,C.y,C.t),new K.QX(q.d,c),T.cw(H.a([new K.IH(q.f,c),T.aJ(c,c,10)],k),C.u,C.y,C.t)],k),C.u,C.cs,C.t),c,b*0.42)
 i=q.y
 h=q.x
 a=T.aJ(T.a78(C.a6,T.cw(H.a([T.cw(H.a([T.aJ(c,c,10),new K.Lv(q.ch,c)],k),C.u,C.y,C.t),M.bB(c,c,c,c,c,c,c,c,a0),new K.TG(i,h,i-h,c),M.bB(c,c,c,c,c,c,c,c,a0),new K.LZ(q.Q,c)],k),C.cb,C.cs,C.t),C.M,C.cC),c,a)
